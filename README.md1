@@ -1,0 +1,49 @@
+# Desafio DIO - Explorando o Copilot
+
+## 📚 Sobre o desafio
+
+Esse repositório foi criado para um desafio da DIO, com o objetivo de aprender a usar o GitHub Copilot na prática.
+
+## ❓ Ask
+
+Prompt utilizado:
+Explique o que essa função JavaScript faz.
+
+Resumo:
+Nesse modo, o Copilot ajudou a entender o código, explicando o que cada parte faz sem alterar nada.
+
+## ✏️ Edit
+
+Prompt utilizado:
+Melhore esse código deixando ele mais organizado.
+
+Resumo:
+Aqui o Copilot fez melhorias no código, deixando ele mais limpo e fácil de entender.
+
+## 🧭 Plan
+
+Prompt utilizado:
+Crie um plano para desenvolver um sistema de login em JavaScript.
+
+Resumo:
+O Copilot mostrou um passo a passo de como fazer um sistema de login, dividindo em etapas como criar a tela, validar os dados e fazer a autenticação.
+
+## 🤖 Agent
+
+Prompt utilizado:
+Implemente um sistema de login com autenticação JWT.
+
+Resumo:
+Nesse modo, o Copilot praticamente fez tudo sozinho, sugerindo como montar o sistema completo, como se fosse um desenvolvedor ajudando.
+
+## 📚 Study
+
+Prompt utilizado:
+Me ensine como funciona uma função em JavaScript com exemplos.
+
+Resumo:
+O Copilot explicou o conteúdo de forma mais simples, como um professor, ajudando a aprender melhor.
+
+## 🚀 Conclusão
+
+Com esse desafio, deu pra ver que o Copilot ajuda bastante tanto para aprender quanto para programar, deixando tudo mais fácil e rápido.
